@@ -66,7 +66,7 @@ curl "https://itis-service.herokuapp.com/v1/schedule/11-604?electiveCourse=Anali
     "even": false,
     "days": [
         {
-            "number": 1,
+            "name": "Понедельник",
             "lessons": [
                 {
                     "dateTimeStart": 1538976600000,
